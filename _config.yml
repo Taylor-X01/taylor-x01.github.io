@@ -21,7 +21,7 @@ repository               : "Taylor-X01/taylor-x01.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/Anass_GRINI.jpg"
+  avatar           : images/Anass_GRINI.jpg
   name             : "Anass Grini"
   pronouns         : # example: "she/her"  
   bio              : "MEng, PhD Candidate @ Ai Movement - University Mohammed VI Polytechnic"
